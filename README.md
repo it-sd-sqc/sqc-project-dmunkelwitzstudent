@@ -1,4 +1,4 @@
-# Your project name
-Your given and family name.
+# Essentials of Music Theory
+Daniel Munkelwitz.
 
-A one-sentence description of your project.
+Determines the prevelance of certain musical concepts.
