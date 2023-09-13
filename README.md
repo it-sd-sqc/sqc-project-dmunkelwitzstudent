@@ -1,4 +1,4 @@
 # Essentials of Music Theory
 Daniel Munkelwitz.
 
-Determines the prevelance of certain musical concepts.
+Determines the prevalance of certain musical concepts.
