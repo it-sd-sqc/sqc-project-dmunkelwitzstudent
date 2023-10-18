@@ -1,0 +1,22 @@
+
+body {
+  color: black;
+}
+
+.dark {
+  background-color: #334;
+  color: white;
+}
+
+nav {
+  color: inherit;
+}
+
+a {
+  color: inherit;
+}
+
+
+
+
+
